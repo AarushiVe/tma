@@ -1,0 +1,12 @@
+/* blue and white theme on top of bootstrap */
+body { background-color: #f4f8ff; }
+.navbar-trekison { background-color: #0d47a1; }
+.card { border-color: #cfe0ff; }
+.table thead th { background-color: #e3eeff; }
+.btn-primary { background-color: #1565c0; border-color: #1565c0; }
+.btn-primary:hover { background-color: #0d47a1; border-color: #0d47a1; }
+.btn-outline-primary { color: #1565c0; border-color: #1565c0; }
+.btn-outline-primary:hover { background-color: #1565c0; border-color: #1565c0; }
+.text-blue { color: #1565c0; }
+.alert-box { position: fixed; top: 70px; right: 15px; z-index: 2000; width: 300px; }
+.auth-box { max-width: 420px; margin: 60px auto; }

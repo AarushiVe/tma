@@ -1,0 +1,3 @@
+User ID,Trek Name,Location,People,Booking Status,Payment Status,Start Date,End Date
+4,trek 2,def,1,Booked,Paid,2026-11-25,2026-12-01
+4,trek 2,def,3,Cancelled,Refunded,2026-11-25,2026-12-01
